@@ -10,18 +10,18 @@ package com.learning.pluralsight.comments;
 public class Comments {
 
     public void LineComment(){
-        System.out.println("In the comments Class for Line Comment"); //This is for the line comment
+        System.out.println("In the comments Class for Line Comment."); //This is for the line comment
     }
 
     public void BlockComment(){
-        System.out.println("In the comments Class for Block Comment");
+        System.out.println("In the comments Class for Block Comment.");
         /*
         This is for the block comment
          */
     }
 
     public void JavaDocComment(){
-        System.out.println("In the comments Class for Javadoc Comment");
+        System.out.println("In the comments Class for Javadoc Comment\n");
         /**
          * This is for documentation
          */
