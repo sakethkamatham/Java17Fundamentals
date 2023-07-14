@@ -1,5 +1,10 @@
-package com.learning.pluralsight.PrimitiveDataTypes;
+package com.learning.pluralsight.primitivedatatypes;
 
+/**
+ * This class talks about Primitive Data Types
+ *
+ * @Author Saketh Kamatham
+ */
 public class DataTypes {
 
     public void dataTypes() {
@@ -7,6 +12,6 @@ public class DataTypes {
         System.out.println("Integer has the following Types...Byte, Short, Int and Long");
         System.out.println("Float has the following types...Float and Double");
         System.out.println("Character takes a unicode value. Its expressed in ' '.");
-        System.out.println("Boolean has two values true and false.");
+        System.out.println("Boolean has two values true and false.\n");
     }
 }
