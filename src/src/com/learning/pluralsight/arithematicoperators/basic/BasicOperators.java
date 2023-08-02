@@ -24,7 +24,7 @@ public class BasicOperators {
         System.out.println("Integer Addition: "+(valueThree+valueFour));
         System.out.println("Integer Subtraction: "+(valueThree-valueFour));
         System.out.println("Integer Multiplication: "+(valueThree*valueFour));
-        System.out.println("Integer Division: "+(valueThree/valueFour));
+        System.out.println("Integer Division: "+(valueThree / valueFour));
         System.out.println("Integer Modulo: "+(valueThree%valueFour));
 
     }
